@@ -1,5 +1,6 @@
 package es.masanz.noviembre.controller;
 
+import es.masanz.noviembre.MainApp;
 import es.masanz.noviembre.data.Pregunta;
 import es.masanz.noviembre.manager.ArchivoManager;
 import io.javalin.http.Context;
@@ -22,7 +23,7 @@ public class QuizController {
 
     // TODO: Inicializar controlador
     public QuizController(){
-        this.archivoQuiz = new ArchivoManager("C:\\Users\\alonso\\Documents\\DAW2\\PROG\\Año actual\\RA1-RA6\\ProyectoNoviembre\\src\\main\\resources\\files\\quiz.txt");
+        this.archivoQuiz = new ArchivoManager(MainApp.QUIZ_PATH);
         this.puntuacion = 0;
         prepararPreguntas();
     }
@@ -44,26 +45,39 @@ public class QuizController {
     public void mostrarPregunta(Context context) {
         Map<String, Object> model = new HashMap<String, Object>();
 
-
-
-        for (Pregunta pregunta : preguntas) {
+        if (!preguntas.isEmpty()) {
+            Pregunta pregunta = preguntas.getFirst();
             model.put("pregunta", pregunta);
+            model.put("preguntaTexto", pregunta.getPregunta());
             model.put("opciones", pregunta.getOpciones());
+            context.sessionAttribute("preguntaActual", pregunta);
+
+        } else {
+            model.put("puntuacion", puntuacion);
         }
 
-        model.put("puntuacion", 0);
         context.render("/templates/quiz.ftl", model);
     }
 
     // TODO: Procesar la respuesta de la pregunta y redirigir a la vista principal
     public void procesarRespuesta(Context context) {
         String respuestaUsuario = context.formParam("respuesta");
-        logger.info("La respuesta enviada ha sido: "+respuestaUsuario);
+        Pregunta pregunta = context.sessionAttribute("preguntaActual");
+        if (pregunta != null && pregunta.getRespuestaCorrecta().equals(respuestaUsuario)) {
+            puntuacion++;
+        }
+
+        if (!preguntas.isEmpty()) {
+            preguntas.removeFirst();
+        }
+
         context.redirect("/quiz");
     }
 
     // TODO: Reinicializar los atributos necesarios para volver a empezar y redirigir a la vista principal
     public void empezarNuevamente(Context ctx) {
+        puntuacion = 0;
+        prepararPreguntas();
         ctx.redirect("/quiz");
     }
 }

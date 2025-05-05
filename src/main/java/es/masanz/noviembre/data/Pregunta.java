@@ -28,16 +28,5 @@ public class Pregunta {
         return opciones;
     }
 
-    public void setPregunta(String pregunta) {
-        this.pregunta = pregunta;
-    }
-
-    public void setRespuestaCorrecta(String respuestaCorrecta) {
-        this.respuestaCorrecta = respuestaCorrecta;
-    }
-
-    public void setOpciones(String[] opciones) {
-        this.opciones = opciones;
-    }
     // endregion
 }

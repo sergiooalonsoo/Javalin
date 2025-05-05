@@ -1,5 +1,6 @@
 package es.masanz.noviembre.controller;
 
+import es.masanz.noviembre.MainApp;
 import es.masanz.noviembre.manager.ArchivoManager;
 import io.javalin.http.Context;
 import org.apache.logging.log4j.LogManager;
@@ -21,7 +22,7 @@ public class WordleController {
 
     // TODO: Implementar controlador
     public WordleController(){
-        archivoWordle = new ArchivoManager("C:\\Users\\alonso\\Documents\\DAW2\\PROG\\Año actual\\RA1-RA6\\ProyectoNoviembre\\src\\main\\resources\\files\\wordle.txt");
+        archivoWordle = new ArchivoManager(MainApp.WORDLE_PATH);
     }
 
     // TODO: Devolver la informacion solicitada

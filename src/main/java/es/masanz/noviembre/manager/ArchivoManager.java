@@ -5,6 +5,9 @@ import org.apache.logging.log4j.Logger;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -46,16 +49,56 @@ public class ArchivoManager {
 
     // TODO: Sustituye la linea del archivo que contenga el texto indicado por el nuevo valor
     public void modificarLinea(String textoLinea, String nuevaLinea) {
-        logger.info("Buscando la linea: "+textoLinea);
+        try {
+            List<String> lineas = new ArrayList<>(leerDocumento());
+            boolean modificada = false;
+            for (int i = 0; i < lineas.size(); i++) {
+                if (lineas.get(i).equals(textoLinea)) {
+                    lineas.set(i, nuevaLinea);
+                    modificada = true;
+                    break;
+                }
+            }
+
+            if (modificada) {
+                Path path = Paths.get(filePath);
+                Files.write(path, lineas);
+            }
+        } catch (Exception e) {
+            logger.error("Error");
+        }
     }
 
     // TODO: Incluye la linea indicada al final del archivo
     public void escribirLinea(String nuevaLinea) {
-
+        try {
+            List<String> lineas = new ArrayList<>(leerDocumento());
+            lineas.add(nuevaLinea);
+            Path path = Paths.get(filePath);
+            Files.write(path, lineas);
+        } catch (Exception e) {
+            logger.error("Error");
+        }
     }
 
     // TODO: Elimina la linea que coincida con textoLinea
     public void eliminarLinea(String textoLinea) {
+        try {
+            List<String> lineas = new ArrayList<>(leerDocumento());
+            boolean eliminada = false;
+            for (int i = lineas.size() - 1; i >= 0; i--) {
+                if (lineas.get(i).equals(textoLinea)) {
+                    lineas.remove(i);
+                    eliminada = true;
+                }
+            }
 
+            if (eliminada) {
+                Path path = Paths.get(filePath);
+                Files.write(path, lineas);
+            }
+        } catch (Exception e) {
+            logger.error("Error");
+        }
     }
 }
