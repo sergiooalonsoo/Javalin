@@ -1,0 +1,30 @@
+¿Quién fue el primer maestro de Goku?;Roshi;Karin;Kami Sama;Kaio Sama;Roshi
+¿Cómo se llama la técnica principal de Goku?;Final Flash;Kamehameha;Galick Gun;Big Bang Attack;Kamehameha
+¿Qué Saiyajin logró la primera transformación en Super Saiyajin?;Vegeta;Goku;Broly;Bardock;Goku
+¿Cómo se llama el planeta de donde proviene Vegeta?;Namek;Kaioshin;Planeta Freezer;Planeta Vegeta;Planeta Vegeta
+¿Cuál es el nombre del hermano de Freezer?;Cooler;Frost;King Cold;Raditz;Cooler
+¿Cómo se llama la nube en la que Goku solía volar?;Nimbus;Kaioken;Flying Raijin;Bakuhatsuha;Nimbus
+¿Qué técnica enseña el Maestro Roshi a Goku y Krillin?;Kienzan;Kamehameha;Kaioken;Makankosappo;Kamehameha
+¿Qué androide se sacrificó para derrotar a Cell?;17;16;18;19;16
+¿Cómo se llama el ataque especial de Piccolo?;Makankosappo;Kamehameha;Final Flash;Big Bang Attack;Makankosappo
+¿En qué saga Goku alcanza por primera vez el Super Saiyajin 3?;Saga de Freezer;Saga de Cell;Saga de Majin Buu;Saga de los Saiyajin;Saga de Majin Buu
+¿Cuál es el apellido de Naruto?;Hatake;Uzumaki;Uchiha;Hyuga;Uzumaki
+¿Qué bestia con cola tiene Naruto en su interior?;Shukaku;Matatabi;Kurama;Gyuki;Kurama
+¿Cómo se llama el jutsu principal de Naruto?;Chidori;Rasengan;Amaterasu;Tsukuyomi;Rasengan
+¿Cuál es el equipo de Kakashi?;Equipo 7;Equipo 10;Equipo 3;Equipo 9;Equipo 7
+¿Cómo se llama el Sharingan evolucionado de Sasuke?;Byakugan;Rinnegan;Mangekyo Sharingan;Jogan;Mangekyo Sharingan
+¿Qué Hokage fue el maestro de Jiraiya?;Primer Hokage;Segundo Hokage;Tercer Hokage;Cuarto Hokage;Tercer Hokage
+¿Quién creó el Edo Tensei?;Orochimaru;Tobirama Senju;Madara Uchiha;Hashirama Senju;Tobirama Senju
+¿Qué técnica usa Kakashi en su pelea contra Zabuza?;Amaterasu;Rasengan;Chidori;Susano'o;Chidori
+¿Quién fue el primer rival de Naruto en los exámenes Chunin?;Neji Hyuga;Rock Lee;Kiba Inuzuka;Gaara;Kiba Inuzuka
+¿Qué personaje posee el poder del Byakugan?;Sasuke;Hinata;Naruto;Sakura;Hinata
+¿Cómo se llama el primer Pokémon en la Pokédex?;Charmander;Pikachu;Bulbasaur;Squirtle;Bulbasaur
+¿Cuál es el Pokémon de tipo eléctrico más famoso?;Jolteon;Electabuzz;Pikachu;Zapdos;Pikachu
+¿Cuántos Pokémon originales existían en la primera generación?;150;251;386;721;150
+¿Quién es el líder del Equipo Rocket?;Giovanni;Jessie;James;Meowth;Giovanni
+¿Qué objeto permite a los Pokémon evolucionar?;MT;Poción;Piedra Evolutiva;Sable de Luz;Piedra Evolutiva
+¿Cuál es la evolución de Eevee de tipo agua?;Flareon;Vaporeon;Jolteon;Leafeon;Vaporeon
+¿Cuál es el nombre del profesor que entrega a los entrenadores su primer Pokémon?;Oak;Elm;Birch;Rowan;Oak
+¿Qué tipo de Pokémon es Charmander?;Eléctrico;Fuego;Agua;Hierba;Fuego
+¿Cómo se llama el Pokémon legendario de tipo hielo en la primera generación?;Moltres;Zapdos;Articuno;Lugia;Articuno
+¿Qué objeto es necesario para capturar Pokémon?;Escudo;Velo de Batalla;Poké Ball;Cuerda Huida;Poké Ball

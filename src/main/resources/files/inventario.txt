@@ -1,0 +1,8 @@
+Jamon;7
+Joyas;90
+Gato;1
+Amig;1
+amigo;1
+AMIGO;1
+Llave;4
+item2;2

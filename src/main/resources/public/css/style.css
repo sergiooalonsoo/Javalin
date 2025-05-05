@@ -1,0 +1,44 @@
+/* buscamines.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+form, p {
+    margin: 1em 0em;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 5px;
+}
+
+button.celda {
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    position: relative;
+    border-radius: 3px;
+    border: 1px solid black;
+}
+
+button.celda .oculto {
+    display: none; /* Ocultamos el número o bomba por defecto */
+}
+
+button.celda .revelado {
+    display: block; /* Mostrar el número o bomba cuando se haga clic */
+}
+
+button.celda .sin-tocar {
+    display: block; /* Mostrar el ? inicialmente */
+}
+
+button.celda .sin-tocar.oculto {
+    display: none; /* Ocultar el ? cuando se haya revelado el número */
+}

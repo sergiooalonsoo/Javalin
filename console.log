@@ -1,0 +1,233 @@
+16:50:27.965 [main] INFO  es.masanz.noviembre.MainApp - ARRANCANDO APLICACION
+17:09:26.728 [main] INFO  es.masanz.noviembre.MainApp - ARRANCANDO APLICACION
+17:09:53.654 [main] INFO  es.masanz.noviembre.MainApp - ARRANCANDO APLICACION
+17:10:37.381 [main] INFO  es.masanz.noviembre.MainApp - ARRANCANDO APLICACION
+17:34:03.907 [main] INFO  es.masanz.noviembre.MainApp - ARRANCANDO APLICACION
+17:40:50.524 [main] INFO  es.masanz.noviembre.MainApp - ARRANCANDO APLICACION
+17:43:41.449 [main] INFO  es.masanz.noviembre.MainApp - ARRANCANDO APLICACION
+18:05:24.836 [main] INFO  es.masanz.noviembre.MainApp - ARRANCANDO APLICACION
+18:17:07.128 [main] INFO  es.masanz.noviembre.MainApp - ARRANCANDO APLICACION
+18:17:24.619 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 0 y columna: 0
+18:17:26.623 [JettyServerThreadPool-69] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 1 y columna: 1
+18:17:27.227 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 2 y columna: 2
+18:17:27.612 [JettyServerThreadPool-69] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 3
+18:17:27.953 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 4
+18:17:28.318 [JettyServerThreadPool-69] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 5 y columna: 5
+18:17:28.619 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 4
+18:17:28.876 [JettyServerThreadPool-69] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 7 y columna: 4
+18:17:29.069 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 7 y columna: 3
+18:17:29.243 [JettyServerThreadPool-69] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 7 y columna: 2
+18:17:29.405 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 7 y columna: 1
+18:17:29.611 [JettyServerThreadPool-69] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 1
+18:17:29.986 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 0
+18:17:30.176 [JettyServerThreadPool-69] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 0
+18:17:30.417 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 0
+18:17:30.650 [JettyServerThreadPool-69] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 2 y columna: 0
+18:17:31.050 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 1 y columna: 0
+18:17:31.409 [JettyServerThreadPool-69] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 2 y columna: 1
+18:17:31.640 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 1
+18:17:31.914 [JettyServerThreadPool-69] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 1
+18:17:51.570 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 5
+18:17:52.165 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 4
+18:17:52.510 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 5 y columna: 4
+18:17:52.730 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 5 y columna: 5
+18:17:53.086 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 5
+22:57:03.376 [main] INFO  es.masanz.noviembre.MainApp - ARRANCANDO APLICACION
+22:57:47.045 [main] INFO  es.masanz.noviembre.MainApp - ARRANCANDO APLICACION
+23:02:24.994 [main] INFO  es.masanz.noviembre.MainApp - ARRANCANDO APLICACION
+23:02:30.752 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 1 y columna: 3
+23:02:31.424 [JettyServerThreadPool-69] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 1 y columna: 2
+23:02:31.831 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 2 y columna: 2
+23:02:39.072 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 0 y columna: 0
+23:02:40.069 [JettyServerThreadPool-69] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 0 y columna: 1
+23:02:40.272 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 1 y columna: 0
+23:02:40.466 [JettyServerThreadPool-69] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 1 y columna: 1
+23:02:42.412 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 0 y columna: 2
+23:02:42.844 [JettyServerThreadPool-69] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 1 y columna: 2
+23:02:43.715 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 0 y columna: 3
+23:02:43.898 [JettyServerThreadPool-69] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 1 y columna: 3
+23:02:48.500 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 0 y columna: 4
+23:02:53.286 [JettyServerThreadPool-69] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 0 y columna: 5
+23:02:53.655 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 1 y columna: 5
+23:02:54.329 [JettyServerThreadPool-69] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 2 y columna: 3
+23:02:54.648 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 2 y columna: 4
+23:02:55.033 [JettyServerThreadPool-69] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 2 y columna: 2
+23:02:58.308 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 4
+23:02:58.597 [JettyServerThreadPool-69] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 3
+23:02:58.879 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 2
+23:03:01.047 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 1 y columna: 6
+23:03:01.276 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 0 y columna: 6
+23:03:08.786 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 3
+23:03:08.984 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 2
+23:03:09.440 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 4
+23:03:10.475 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 5 y columna: 3
+23:03:10.695 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 5 y columna: 4
+23:03:11.216 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 5 y columna: 2
+23:03:12.173 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 3
+23:03:12.408 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 4
+23:03:13.195 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 2
+23:03:14.262 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 5 y columna: 5
+23:03:14.629 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 5
+23:03:15.933 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 5
+23:03:17.107 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 5
+23:03:18.131 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 6
+23:03:18.524 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 6
+23:03:19.187 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 5 y columna: 6
+23:03:20.250 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 6
+23:03:22.050 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 7
+23:03:22.253 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 7
+23:03:23.218 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 5 y columna: 7
+23:03:25.533 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 7
+23:03:26.439 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 7 y columna: 6
+23:03:26.720 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 7 y columna: 7
+23:03:26.969 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 7 y columna: 8
+23:03:27.239 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 8
+23:03:27.808 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 5 y columna: 8
+23:03:28.975 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 7 y columna: 5
+23:03:30.855 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 8 y columna: 6
+23:03:31.062 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 8 y columna: 5
+23:03:31.956 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 8 y columna: 7
+23:03:32.263 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 8 y columna: 8
+23:03:33.615 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 8 y columna: 9
+23:03:33.813 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 7 y columna: 9
+23:03:34.045 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 9
+23:03:34.295 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 5 y columna: 9
+23:03:35.027 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 9
+23:03:35.351 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 8
+23:03:36.764 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 8
+23:03:36.956 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 9
+23:03:37.789 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 2 y columna: 7
+23:03:38.071 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 2 y columna: 6
+23:03:39.037 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 2 y columna: 8
+23:03:39.336 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 2 y columna: 9
+23:03:41.322 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 1 y columna: 9
+23:03:42.012 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 1 y columna: 8
+23:03:43.344 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 1 y columna: 7
+23:03:45.395 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 0 y columna: 9
+23:03:45.652 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 0 y columna: 8
+23:03:49.668 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 9 y columna: 9
+23:03:49.888 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 9 y columna: 8
+23:03:50.160 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 9 y columna: 7
+23:03:50.491 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 9 y columna: 6
+23:03:50.968 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 9 y columna: 5
+23:03:51.707 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 9 y columna: 4
+23:03:52.661 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 8 y columna: 4
+23:03:52.872 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 8 y columna: 3
+23:03:53.071 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 9 y columna: 3
+23:03:56.617 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 7 y columna: 3
+23:03:57.665 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 7 y columna: 2
+23:03:58.017 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 8 y columna: 2
+23:03:59.372 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 1
+23:03:59.591 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 7 y columna: 1
+23:03:59.836 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 8 y columna: 1
+23:04:12.697 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 1
+23:04:14.081 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 0
+23:04:14.843 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 5 y columna: 0
+23:04:16.042 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 0
+23:04:20.236 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 8 y columna: 0
+23:04:20.488 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 9 y columna: 0
+23:04:23.789 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 1
+23:04:25.983 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 0
+23:04:37.205 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 2 y columna: 0
+23:04:42.109 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 0 y columna: 0
+23:04:43.040 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 1 y columna: 0
+23:04:43.406 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 1 y columna: 1
+23:04:43.588 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 0 y columna: 1
+23:04:44.637 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 0 y columna: 2
+23:04:44.850 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 1 y columna: 2
+23:04:45.906 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 1 y columna: 3
+23:04:46.086 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 2 y columna: 3
+23:04:46.280 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 2 y columna: 2
+23:04:46.495 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 2 y columna: 1
+23:04:47.479 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 1 y columna: 4
+23:04:47.718 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 2 y columna: 4
+23:04:48.182 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 4
+23:04:48.442 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 3
+23:04:48.670 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 2
+23:04:49.064 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 1
+23:04:50.059 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 2
+23:04:50.820 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 1
+23:04:51.148 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 3
+23:04:51.433 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 4
+23:04:52.004 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 5 y columna: 4
+23:04:52.212 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 5 y columna: 3
+23:04:52.429 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 5 y columna: 2
+23:04:52.648 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 5 y columna: 1
+23:04:53.423 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 5 y columna: 5
+23:04:53.667 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 5
+23:04:54.010 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 5
+23:04:54.344 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 5
+23:04:54.709 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 2 y columna: 5
+23:04:55.053 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 1 y columna: 5
+23:04:55.980 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 6
+23:04:56.198 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 2 y columna: 6
+23:04:56.586 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 6
+23:04:57.104 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 5 y columna: 6
+23:04:57.521 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 6
+23:04:57.816 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 5
+23:04:58.134 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 4
+23:04:58.675 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 3
+23:04:59.472 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 7 y columna: 4
+23:04:59.718 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 7 y columna: 3
+23:05:00.004 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 7 y columna: 5
+23:05:00.266 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 7 y columna: 7
+23:05:00.778 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 7 y columna: 6
+23:05:01.442 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 7
+23:05:01.771 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 5 y columna: 7
+23:05:02.041 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 7
+23:05:02.378 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 7
+23:05:02.925 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 2 y columna: 7
+23:05:03.724 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 8
+23:05:03.983 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 2 y columna: 8
+23:05:05.104 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 8
+23:05:05.421 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 5 y columna: 8
+23:05:05.752 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 8
+23:05:06.076 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 7 y columna: 8
+23:05:06.628 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 8 y columna: 8
+23:05:06.997 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 8 y columna: 7
+23:05:07.352 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 8 y columna: 6
+23:05:07.839 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 8 y columna: 5
+23:05:08.475 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 8 y columna: 4
+23:05:09.233 [JettyServerThreadPool-46] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 9 y columna: 5
+23:05:09.586 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 9 y columna: 6
+23:05:09.924 [JettyServerThreadPool-77] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 9 y columna: 7
+23:05:10.471 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 9 y columna: 4
+23:05:10.988 [JettyServerThreadPool-77] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 9 y columna: 8
+23:05:11.416 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 9 y columna: 9
+23:05:12.003 [JettyServerThreadPool-77] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 8 y columna: 9
+23:05:12.233 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 7 y columna: 9
+23:05:12.502 [JettyServerThreadPool-77] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 9
+23:05:12.781 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 5 y columna: 9
+23:05:14.059 [JettyServerThreadPool-77] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 9
+23:05:17.755 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 2 y columna: 9
+23:05:18.516 [JettyServerThreadPool-77] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 1 y columna: 9
+23:05:19.092 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 1 y columna: 8
+23:05:21.142 [JettyServerThreadPool-77] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 1 y columna: 7
+23:05:28.441 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 0 y columna: 3
+23:05:29.134 [JettyServerThreadPool-77] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 0 y columna: 4
+23:05:43.612 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 3 y columna: 0
+23:05:44.836 [JettyServerThreadPool-77] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 4 y columna: 0
+23:05:51.242 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 1
+23:05:51.441 [JettyServerThreadPool-77] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 6 y columna: 0
+23:05:53.162 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 7 y columna: 0
+23:05:53.605 [JettyServerThreadPool-77] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 7 y columna: 1
+23:05:54.474 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 8 y columna: 0
+23:05:55.449 [JettyServerThreadPool-77] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 8 y columna: 1
+23:05:56.041 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 9 y columna: 0
+23:05:56.270 [JettyServerThreadPool-77] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 9 y columna: 1
+23:05:57.223 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 9 y columna: 2
+23:05:57.608 [JettyServerThreadPool-77] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 8 y columna: 2
+23:05:59.455 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 7 y columna: 2
+23:06:04.537 [JettyServerThreadPool-77] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 9 y columna: 3
+23:06:43.957 [JettyServerThreadPool-49] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 0 y columna: 8
+23:06:49.167 [JettyServerThreadPool-70] INFO  es.masanz.noviembre.controller.BuscaminasController - Validando la fila: 0 y columna: 7
+20:26:33.012 [main] INFO  es.masanz.noviembre.MainApp - ARRANCANDO APLICACION
+18:41:38.811 [main] INFO  es.masanz.noviembre.MainApp - ARRANCANDO APLICACION
+18:42:12.800 [main] INFO  es.masanz.noviembre.MainApp - ARRANCANDO APLICACION
+19:14:36.696 [main] INFO  es.masanz.noviembre.MainApp - ARRANCANDO APLICACION
+19:15:59.758 [main] INFO  es.masanz.noviembre.MainApp - ARRANCANDO APLICACION
+19:23:56.202 [main] INFO  es.masanz.noviembre.MainApp - ARRANCANDO APLICACION
+19:26:35.849 [main] INFO  es.masanz.noviembre.MainApp - ARRANCANDO APLICACION
+19:27:16.134 [main] INFO  es.masanz.noviembre.MainApp - ARRANCANDO APLICACION
+19:32:28.279 [main] INFO  es.masanz.noviembre.MainApp - ARRANCANDO APLICACION
+19:49:43.936 [JettyServerThreadPool-80] INFO  es.masanz.noviembre.controller.QuizController - La respuesta enviada ha sido: Charmander
